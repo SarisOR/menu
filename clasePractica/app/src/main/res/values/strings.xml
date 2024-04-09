@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">clasePractica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="servicios">
+        <item>Jardinería</item>
+        <item>Electricista</item>
+        <item>Limpieza</item>
+        <item>Lavandería</item>
+        <item>Fontanería</item>
+        <item>Niñera</item>
+        <item>Entrenador Personal</item>
+        <item>Mecánico</item>
+    </string-array>
+
+</resources>
